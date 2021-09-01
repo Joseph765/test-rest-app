@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://help.wineguardian.com/home'
+      'https://test-rest-app8734.herokuapp.com/api/users'
     ],
 
 
